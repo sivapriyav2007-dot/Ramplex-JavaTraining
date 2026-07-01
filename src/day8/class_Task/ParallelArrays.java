@@ -22,7 +22,7 @@ public class ParallelArrays {
         System.out.print("\nEnter the name of the drink: ");
         String name = sc.nextLine();
 
-        System.out.print("Enter the Quantity: ");
+        System.out.print("Enter the Quantity: ");  
         int qty = sc.nextInt();
 
         boolean found = false;
